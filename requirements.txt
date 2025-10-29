@@ -1,0 +1,11 @@
+smartapi-python>=1.2.9
+pandas>=2.0.0
+numpy>=1.24.0
+streamlit>=1.24.0
+plotly>=5.15.0
+beautifulsoup4>=4.12.0
+requests>=2.31.0
+python-dotenv>=1.0.0
+schedule>=1.2.0
+websocket-client>=1.6.0
+pyotp>=2.8.0
